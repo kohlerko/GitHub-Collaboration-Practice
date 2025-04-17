@@ -8,5 +8,10 @@ namespace GitHub_Collaboration_Practice
 {
     internal class Student022
     {
+        public static void Sport()
+        {
+            Console.WriteLine("Let's Go Golfing");
+        }
+
     }
 }
